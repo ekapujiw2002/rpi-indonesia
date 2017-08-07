@@ -32,7 +32,7 @@
 
 > Q : Apakah Windows bisa dipergunakan di Raspberry Pi?  
 > A : WIndows untuk Raspberry adalah Windows 10 IoT Core, bukan regular Windows. Tidak ada GUI, selain untuk setting. Jadi digunakan untuk Aplikasi yang dibuat untuk Raspberry, dengan menggunakan Universal Windows Platform.
-Untuk install Windows 10 IoT Core bisa dilihat di (Windows10 IoT)[1]  
+Untuk install Windows 10 IoT Core bisa dilihat di [[1](https://developer.microsoft.com/en-us/windows/iot/getstarted)] [[2](https://www.facebook.com/groups/raspberrypi.indonesia/permalink/1869406753073666/?comment_id=1869423986405276&comment_tracking=%7B%22tn%22%3A%22R6%22%7D)]
 
 
 Referensi :  
