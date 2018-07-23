@@ -14,4 +14,7 @@ Anda yang punya akun Github dan ingin menambahkan sesuatu maka silakan *clone* r
 ## Bagaimana?
 Pelajari bagaimana Github dan operasional yang baik dan benar di [web ini](http://nvie.com/posts/a-successful-git-branching-model/). Pelajari juga tentang [MarkDown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Join Komunitas
++ [Telegram](https://t.me/raspberrypi_id)
+
 So, happy Gitting.....
